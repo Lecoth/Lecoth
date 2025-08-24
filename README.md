@@ -79,3 +79,4 @@ projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
 <br/>
 
 ---
+![lecoth's Stats](https://github-readme-stats.vercel.app/api?username=lecoth&theme=radical&show_icons=true&hide_border=true&count_private=true)
