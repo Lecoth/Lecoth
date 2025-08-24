@@ -1,19 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Lecoth/Lecoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedora** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Me chamo Letícia Paes e atualmente estou cursando Sistemas de Informação na UFRRJ. Aqui será um espaço para eu colocar meus
 projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
 ### Linguagens
@@ -79,4 +67,6 @@ projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
 <br/>
 
 ---
+### 📊 Estatísticas
+
 ![lecoth's Stats](https://github-readme-stats.vercel.app/api?username=lecoth&theme=radical&show_icons=true&hide_border=true&count_private=true)
