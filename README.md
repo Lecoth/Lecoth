@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Atualmente cursando sistemas de informação na UFRRJ. Grande interesse em engenharia de software e nos impactos da tecnologia no mundo.
+Me chamo Letícia Paes e atualmente estou cursando Sistemas de Informação na UFRRJ. Aqui será um espaço para eu colocar meus
+projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
