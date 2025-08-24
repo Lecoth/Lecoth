@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Me chamo Letícia Paes e atualmente estou cursando Sistemas de Informação na UFRRJ. Aqui será um espaço para eu colocar meus
 projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
-### Linguagens e Tecnologias
+### Linguagens
 
 <img 
     align="left" 
