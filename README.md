@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Desenvolvedora** 
+**`Estudante de Sistemas de Informação | Desenvolvedora`**
 
 Me chamo Letícia Paes e atualmente estou cursando Sistemas de Informação na UFRRJ. Aqui será um espaço para eu colocar meus
 projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
