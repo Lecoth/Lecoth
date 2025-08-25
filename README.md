@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informação | Desenvolvedora`**
 
-Me chamo Letícia Paes e atualmente estou cursando Sistemas de Informação na UFRRJ. Aqui será um espaço para eu colocar meus
+Me chamo Letícia Oliveira e atualmente estou cursando Sistemas de Informação na UFRRJ. Aqui será um espaço para eu colocar meus
 projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
 ### Linguagens
 
