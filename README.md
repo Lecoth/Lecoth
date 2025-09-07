@@ -70,3 +70,4 @@ projetos e desenvolvimento contínuo dos meu estudos para minha evolução.
 ### 📊 Estatísticas
 
 ![lecoth's Stats](https://github-readme-stats.vercel.app/api?username=lecoth&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![lecoth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lecoth&theme=radical&show_icons=true&hide_border=true&layout=compact)
